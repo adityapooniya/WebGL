@@ -21,3 +21,7 @@ The WebGL Wiki can be found here
 http://www.khronos.org/webgl/wiki/
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/adityapooniya/webgl/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
